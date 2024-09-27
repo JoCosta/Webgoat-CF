@@ -9,7 +9,7 @@ pipeline {
         IQ_STAGE = "build"
 
         // Amend these
-        IQ_APPNAME = ".Webgoat_CF"
+        IQ_APPNAME = "Webgoat_CF_Jenkins_Pipeline"
         JENKINS_CREDS_ID = "nexusIQServer"
     }
 
